@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP AT24C256C-SSHL-T
+D 256Kb (32kx8) Serial EEPROM with Unique Serial Number, 8SOIC
+K I2C Serial EEPROM Nonvolatile Memory
+F http://www.atmel.com/images/atmel-8568-seeprom-at24c256c-datasheet.pdf
+$ENDCMP
+#
+#End Doc Library
