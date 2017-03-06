@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP Antenna_Shield_3pin
+D Antenna symbol with extra pin for shielding
+K antenna
+$ENDCMP
+#
+#End Doc Library
